@@ -1,2 +1,2 @@
 # DAViT
-It will be open sourced shortly.
+It will be open sourced shortly :)

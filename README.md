@@ -9,7 +9,7 @@ Torch: 1.7.0
 Python: 3.7.3
  
 ## Model
-Learning Rate: 0.001
+Learning Rate: 0.0005
 
 Epoch: 100
 

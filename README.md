@@ -30,6 +30,8 @@ Link: https://pan.baidu.com/s/1pmCMYZ7cjU8OeadBa6MwIw
 
 Extraction code: HSIC
 
+The above link contains six hyperspectral image datasets used in the paper.
+
 ## Other
 
 We encourage researchers to cite our latest work. 

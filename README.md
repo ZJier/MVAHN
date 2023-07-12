@@ -3,12 +3,22 @@
 
 The paper titled "**Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Classification**" has been submitted to the ESWA in Mar 2023, which is an official implementation for **MVAHN**.
 
+## Model
+
+![image](https://github.com/ZJier/MVAHN/assets/103825398/e5745f08-238b-44d7-bdbd-0c936aa2ce94)
+
+Fig. 1: The skeleton of three mainstream neural networks. (a) Convolutional neural network. (b) Graph convolutional network. (c) Transformer.
+
+![image](https://github.com/ZJier/MVAHN/assets/103825398/b9f57023-2cf3-4d83-8179-0e3cb55ba66e)
+
+Fig. 2: Overview illustration of the proposed multiple vision architectures-based hybrid network (MVAHN) for hyperspectral image classification. The yellow shaded area is convolution (Conv) embedded transformer encoders, and the blue shaded area is graph convolutional module (GCM).
+
 ## Pytorch
 Torch: 1.7.0
 
 Python: 3.7.3
  
-## Model
+## Params
 Learning Rate: 0.0005
 
 Epoch: 100

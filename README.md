@@ -25,6 +25,10 @@ Optimizer: Adam (weight_decay=1e-4)
 
 Scheduler: CosineAnnealingLR
 
+## Dataset
+Link: https://pan.baidu.com/s/1pmCMYZ7cjU8OeadBa6MwIw
+Extraction code: HSIC
+
 ## Other
 
 We encourage researchers to cite our latest work. 

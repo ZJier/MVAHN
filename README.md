@@ -11,7 +11,7 @@ Fig. 1. The skeleton of three mainstream neural networks. (a) Convolutional neur
 
 ![image](https://github.com/ZJier/MVAHN/assets/103825398/b9f57023-2cf3-4d83-8179-0e3cb55ba66e)
 
-Fig. 2. Overview illustration of the proposed multiple vision architectures-based hybrid network (MVAHN) for hyperspectral image classification. The yellow shaded area is convolution (Conv) embedded transformer encoders, and the blue shaded area is graph convolutional module (GCM).
+Fig. 2. Overview illustration of the proposed multiple vision architectures-based hybrid network (MVAHN) for hyperspectral image classification. The yellow shaded area is convolution embedded transformer encoders, and the blue shaded area is graph convolutional module (GCM).
 
 ## Pytorch
 Torch: 1.7.0

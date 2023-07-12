@@ -1,6 +1,6 @@
 # MVAHN
 ## Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Classification (MVAHN)
-It will be open sourced shortly :)
+
 The paper titled "**Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Classification**" has been submitted to the ESWA in Mar 2023, which is an official implementation for **MVAHN**.
 
 ## Pytorch

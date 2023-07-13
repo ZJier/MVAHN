@@ -25,7 +25,7 @@ Epoch: 100
 
 Batch Size: 100
 
-Patch Size: $11\times11$
+Patch Size: 11x11
 
 Encoder Layer: 1
 

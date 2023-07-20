@@ -1,7 +1,7 @@
 # MVAHN
 ## Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Classification (MVAHN)
 
-The paper titled "**Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Classification**" has been submitted to the ESWA in Mar 2023, which is an official implementation for **MVAHN**.
+The paper titled "**Multiple vision architectures-based hybrid network for hyperspectral image classification**" has been accepted by Expert Systems with Applications (ESWA) in July 2023, and this is an official implementation for **MVAHN**.
 
 ## Model
 
